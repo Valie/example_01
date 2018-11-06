@@ -6,7 +6,7 @@ server:
 
 spring:
   application:
-    name: A_service #服务命名
+    name: a_service #服务命名
 
 eureka:
     client:
